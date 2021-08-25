@@ -9,11 +9,11 @@
 ![](./figures/faces.png)
 
 ## 漸進式訓練視覺化:
-<img src="./figures/P1.png" height=100>  
-<img src="./figures/P2.png" height=100>  
-<img src="./figures/P3.png" height=100>  
-<img src="./figures/P4.png" height=100>  
-<img src="./figures/P5.png" height=100>  
+<img src="./figures/P1.png" height=200>  
+<img src="./figures/P2.png" height=200>  
+<img src="./figures/P3.png" height=200>  
+<img src="./figures/P4.png" height=200>  
+<img src="./figures/P5.png" height=200>  
 
 ## 各模型測試結果:
 `(未固定random seed)`
