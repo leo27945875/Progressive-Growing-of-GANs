@@ -3,7 +3,7 @@
 `(由於本人GPU不夠力，只能生成64x64的模糊人臉...)`
 
 ## 使用注意事項:
-需自行到別處下載Celeba HQ資料集，並且在args.py中設定資料集路徑。
+需自行到別處下載Celeba HQ資料集，並且在./code/xxx/args.py中設定資料集路徑。
 
 ## 生成人臉:
 ![](./figures/faces.png)
