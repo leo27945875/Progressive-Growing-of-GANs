@@ -6,7 +6,7 @@
 需自行到別處下載Celeba HQ資料集，並且在./code/xxx/args.py中設定資料集路徑。
 
 ## 生成人臉:
-![](./figures/faces.png)
+!["face"](./figures/faces.png)
 
 ## 漸進式訓練視覺化:
 <img src="./figures/P1.png" height=200>  
